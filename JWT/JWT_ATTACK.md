@@ -12,6 +12,8 @@
 ```
 1. It is an authentication type 
 2. It consists of header,payload,Signature
+3. How JWT look like ex: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+here header,payload and signature is seprated by dots.
 ```
 ---------------------------------------------------------------------------------
 * Header 	
